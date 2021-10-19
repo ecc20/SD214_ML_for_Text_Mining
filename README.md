@@ -1,6 +1,6 @@
 # SD214_ML_for_Text_Mining
 
-## Coursework on Sentiment analysis on IMDB movie reviews
+## Lab on Sentiment analysis on IMDB movie reviews
 
 **Objectives**
 
